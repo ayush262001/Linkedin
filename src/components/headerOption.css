@@ -1,0 +1,21 @@
+
+.headerOption{
+    color: gray;
+    margin-right:20px ;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerOption:hover{
+    color: black;
+}
+.headerOption h6{
+    margin: 0px;
+}
+
+.headerOptions_icon{
+    margin: 0px;
+}

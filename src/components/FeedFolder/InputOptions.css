@@ -1,0 +1,19 @@
+.input-option{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    color: gray;
+    font-weight: 600;
+    padding: 0px 10px;
+    cursor: pointer;
+}
+
+.input-option > h4{
+    margin-left: 5px;
+}
+
+.input-option:hover{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
